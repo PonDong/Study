@@ -1,4 +1,4 @@
-＃!usr/bin/env bash
+#!usr/bin/env bash
 #
 #author PonDong
 #email PonDong@163.com
